@@ -1,5 +1,5 @@
 # Water-Quality-Monitoring-System
-This project proposes a solution to monitor quality using three sensors - pH,Turbidity and Temperature. 
+This project proposes a solution to monitor water quality using three sensors - pH,Turbidity and Temperature. 
 
 The user is notified whenever the water becomes unsafe.
 
